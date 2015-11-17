@@ -26,3 +26,4 @@ Email: jinw@hust.edu.cn
 
 References:
 [1] Shengcai Liao, Yang Hu, Xiangyu Zhu, and Stan Z. Li. ¡°Person re-identification by local maximal occurrence representation and metric learning.¡± In IEEE Conference on Computer Vision and Pattern Recognition, 2015.
+
